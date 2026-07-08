@@ -8,11 +8,11 @@ Generate a sales forecasting solution for a large distributor in the food sector
 
 ### **Data preparation**
 
-To train the machine learning models, the administration has commissioned [data preparation](notebooks/01_forecasting_prepare_data.ipynb) from a database that contains 3 years of historical sales. 
+To train the machine learning models, the administration has commissioned [data preparation] from a database that contains 3 years of historical sales. 
 
 ### **Modeling Methodology**
 
-For the development of the models, a guided and structured process was followed in the following steps and available in the corresponding [notebook](notebooks/03_forecasting_production_code.ipynb):
+For the development of the models, a guided and structured process was followed in the following steps and available in the corresponding [notebook]:
 
 * Import data
 
@@ -26,7 +26,7 @@ For the development of the models, a guided and structured process was followed 
 
 * Evaluation
 
-For the implementation of the models in the production environment, the [training](production/trainingretail.py) and [execution](production/executionretail.py) scripts were prepared for subsequent delivery to the IT team.
+For the implementation of the models in the production environment, the [training] and [execution] scripts were prepared for subsequent delivery to the IT team.
 
 ## **Conclusions**
 
